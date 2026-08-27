@@ -1,2 +1,3 @@
 #Understanding Merge_conflict
-This is the main Branch
+This is the Description written on BranchA
+
