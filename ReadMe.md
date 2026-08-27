@@ -1,3 +1,3 @@
 #Understanding Merge_conflict
-This is the Description written on BranchA
+This is the Description written on BranchB
 
